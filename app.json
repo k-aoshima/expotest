@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bd8e91b2-f5b7-4b9c-ab80-c83dca6e038d"
+      }
+    },
+    "owner": "bmexami"
   }
 }
